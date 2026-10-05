@@ -1,0 +1,6 @@
+{
+  "name": "Friday Snacks",
+  "description": "Order your Friday office snack. Browse snacks, bakery, sandwiches, and treats with single-item selection and order confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
